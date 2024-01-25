@@ -2,11 +2,15 @@
 
 ## 🗂️ Projects
 - **Bridge:** 개발자, 디자이너, 기획자들을 위한 사이드 프로젝트 모집 플랫폼 서비스. (2023.09 ~ ing) 
-- **With Calendar:** 사용자의 일정을 효율적으로 관리할 수 있도록 지원하는 스케줄 서비스. (2022.10 ~ 2022.12) [[AppStore](https://apps.apple.com/kr/app/with-calendar/id1661333206)]
+- **WithCalendar:** 사용자의 일정을 효율적으로 관리할 수 있도록 지원하는 스케줄 서비스. (2022.10 ~ 2022.12) [[AppStore](https://apps.apple.com/kr/app/with-calendar/id1661333206)]
 - **요리도감:** 요리 레시피를 공유하고, 소통할 수 있는 커뮤니티 서비스. (2022.07 ~ 2022.10) [[AppStore](https://apps.apple.com/kr/app/요리도감/id1644290667)]
+
+<br>
 
 ## 📝 Blog
 - [iOS 입문자 이야기](https://iosjiho.tistory.com/)
+
+<br>
 
 ## Tech Stack
 ### iOS
