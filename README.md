@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=C5E8A7&height=280&section=header&text=%EC%97%84%EC%A7%80%ED%98%B8&fontSize=75&fontColor=333333&desc=%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98%20%EC%83%9D%EC%82%B0%EC%84%B1%20%C3%97%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EC%9D%98%20%EA%B9%8A%EC%9D%B4&descSize=22&descAlignY=72&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D9F99D&height=280&section=header&text=Hi%2C%20I'm%20Jiho&fontSize=75&fontColor=333333&desc=App%20Developer&descSize=22&descAlignY=72&animation=fadeIn)
 
 ### ⚒ Tech Stack
 
@@ -16,6 +16,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-8B5CF6?style=flat&logo=fastlane&logoColor=white)
 
-<sub>[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/with-calendar/id6754816736) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.max.withCalendar) [![Blog](https://img.shields.io/badge/Blog-FF5A4A?style=flat&logo=tistory&logoColor=white)](https://iosjiho.tistory.com/)</sub>
+<sub>[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/with-calendar/id6754816736) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.max.withCalendar)</sub>
 
 </div>
