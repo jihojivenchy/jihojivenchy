@@ -1,41 +1,21 @@
-## Hi there 👋 I'm Jiho
+<div align="center">
 
-## 🗂️ Projects
-- **Bridge:** 개발자, 디자이너, 기획자들을 위한 사이드 프로젝트 모집 플랫폼 서비스. (2023.09 ~ 2024.02) 
-- **WithCalendar:** 사용자의 일정을 효율적으로 관리할 수 있도록 지원하는 스케줄 서비스. (2022.10 ~ 2022.12) [[AppStore](https://apps.apple.com/kr/app/with-calendar/id1661333206)]
-- **요리도감:** 요리 레시피를 공유하고, 소통할 수 있는 커뮤니티 서비스. (2022.07 ~ 2022.10) [[AppStore](https://apps.apple.com/kr/app/요리도감/id1644290667)]
+![header](https://capsule-render.vercel.app/api?type=waving&color=C5E8A7&height=280&section=header&text=%EC%97%84%EC%A7%80%ED%98%B8&fontSize=75&fontColor=333333&desc=%ED%81%AC%EB%A1%9C%EC%8A%A4%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98%20%EC%83%9D%EC%82%B0%EC%84%B1%20%C3%97%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EC%9D%98%20%EA%B9%8A%EC%9D%B4&descSize=22&descAlignY=72&animation=fadeIn)
 
-<br>
+### ⚒ Tech Stack
 
-## Library
-- **Dropdown:** UIkit 기반의 사용하기 쉽고, 유연한 드롭다운 라이브러리 (2024.05~2024.06)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=uikit&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat&logo=swift&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-4B5563?style=flat)
 
-## 📝 Blog
-- [iOS 입문자 이야기](https://iosjiho.tistory.com/)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-8B5CF6?style=flat&logo=fastlane&logoColor=white)
 
-<br>
+<sub>[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/kr/app/with-calendar/id6754816736) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.max.withCalendar) [![Blog](https://img.shields.io/badge/Blog-FF5A4A?style=flat&logo=tistory&logoColor=white)](https://iosjiho.tistory.com/)</sub>
 
-## Tech Stack
-### iOS
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Swift-FF6C22?style=for-the-badge&logo=Swift&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/UIkit-2396F3?style=for-the-badge&logo=UIkit&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFFBF5?style=for-the-badge&logo=firebase&logoColor=FF9843"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Alamofire-3B66BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RxSwift-3B66BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/KingFisher-3B66BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-
-### UI/UX Tool
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/AutoLayout-FF90BC?style=for-the-badge&logo=autoit&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Snapkit-FF90BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/PinLayout-FF90BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/FlexLayout-FF90BC?style=for-the-badge&logo=librarything&logoColor=FFFFFF"/></a>
-
-### Design Pattern
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MVVM.C-7FC7D9?style=for-the-badge&logo=instructure&logoColor=FFFFFF"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/MVC-7FC7D9?style=for-the-badge&logo=instructure&logoColor=FFFFFF"/></a>
-
-### Architecture
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Clean Architecture-83A2FF?style=for-the-badge&logo=ccleaner&logoColor=FFFFFF"/></a>
-
+</div>
