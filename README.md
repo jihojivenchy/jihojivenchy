@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=D9F99D&height=280&section=header&text=Hi%2C%20I'm%20Jiho&fontSize=75&fontColor=333333&desc=App%20Developer&descSize=22&descAlignY=72&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0B1849&height=280&section=header&text=Hi%2C%20I'm%20Jiho&fontSize=75&fontColor=333333&desc=App%20Developer&descSize=22&descAlignY=72&animation=fadeIn)
 
 ### ⚒ Tech Stack
 
